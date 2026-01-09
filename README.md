@@ -9,7 +9,7 @@
 
 
 ### 📥 Download Apk
-> There is no apk file.
+> There is no APK file yet.
 <!-- APK Button
 [![Download APK](https://img.shields.io/badge/Download-APK-blue)](APK_LINK)
 -->
