@@ -3,7 +3,9 @@
 ### 📱 About App
 > Electronic debt ledger.
 > A program that automatically calculates debts and easily displays statistical information about them.
+> Easily filter and sort debtors.
 > Get the latest exchange rates without leaving the app.
+> Easily convert currencies between each other
 > 
 > Technical: Kotlin, Compose,Voyager, Hilt, Flow, Retrofit, Supabase, Room, Orbit, MVI, NDK, Timber, Fingerprint
 
