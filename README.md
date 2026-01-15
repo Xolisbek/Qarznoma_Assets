@@ -7,7 +7,7 @@
 > Get the latest exchange rates without leaving the app.
 > Easily convert currencies between each other
 > 
-> Technical: Kotlin, Compose,Voyager, Hilt, Flow, Retrofit, Supabase, Room, Orbit, MVI, NDK, Timber, Fingerprint, LottieAnimation, WorkManager, ClousBackup
+> Technical: Kotlin, Compose,Voyager, Hilt, Flow, Retrofit, Supabase, Room, Orbit, MVI, NDK, Timber, Fingerprint, LottieAnimation, WorkManager, CloudBackup
 
 
 ### 📥 Download Apk
