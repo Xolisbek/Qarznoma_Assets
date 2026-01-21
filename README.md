@@ -2,12 +2,10 @@
 
 ### 📱 About App
 > Electronic debt ledger.
-> A program that automatically calculates debts and easily displays statistical information about them.
-> Easily filter and sort debtors.
-> Get the latest exchange rates without leaving the app.
-> Easily convert currencies between each other
+> An Offline-First financial ledger application designed for tracking debts with automated statistical analysis.
+> Features include real-time currency conversion, biometric security, and robust background data synchronization between local storage and the cloud.
 > 
-> Technical: Kotlin, Compose,Voyager, Hilt, Flow, Retrofit, Supabase, Room, Orbit, MVI, NDK, Timber, Fingerprint, LottieAnimation, WorkManager, CloudBackup
+> Technical: Kotlin, Jetpack Compose, Voyager, Orbit MVI, Hilt, Multi-Module,Room, Supabase, Retrofit, WorkManager (Offline-First), NDK, Biometric Auth, Coroutines & Flow, LottieAnimation, Timber
 
 
 ### 📥 Download Apk
